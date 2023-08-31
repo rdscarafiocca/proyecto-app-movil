@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyecto final</string>
+
+    <!-- ETIQUETAS DEL 'TEXT-VIEW'-->
+    <string name="textos_iguales">Los textos son iguales</string>
+    <string name="textos_distintos">Los textos son distintos</string>
+    <string name="campos_vacios">Los campos no pueden estar vacíos</string>
+
+    <!-- ETIQUETAS 'HINT' DE LOS 'EDIT-TEXT'-->
+    <string name="primer_texto">Ingrese aquí el primer texto a comparar</string>
+    <string name="segundo_texto">Ingrese aquí el segundo texto</string>
+
+</resources>
